@@ -2899,9 +2899,6 @@ self.__RSC_MANIFEST={
   "cssFiles": {
     "C:\\Users\\asus\\Desktop\\WEB DEV\\PROJECTS\\chat-app\\src\\app\\layout": [
       "static/css/app/layout.css"
-    ],
-    "C:\\Users\\asus\\Desktop\\WEB DEV\\PROJECTS\\chat-app\\src\\app\\page": [
-      "static/css/app/page.css"
     ]
   },
   "clientModules": {
@@ -9390,13 +9387,6 @@ self.__RSC_MANIFEST={
       "name": "default",
       "chunks": [
         "static/css/app/layout.css"
-      ]
-    },
-    "C:\\Users\\asus\\Desktop\\WEB DEV\\PROJECTS\\chat-app\\node_modules\\next\\font\\google\\target.css?{\"path\":\"src\\\\app\\\\page.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/page.css"
       ]
     }
   }

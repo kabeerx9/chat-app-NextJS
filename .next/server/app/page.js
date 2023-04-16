@@ -1584,20 +1584,20 @@ eval("Promise.resolve(/*! import() eager */).then(__webpack_require__.t.bind(__w
 
 /***/ }),
 
-/***/ "(sc_client)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=C%3A%5CUsers%5Casus%5CDesktop%5CWEB%20DEV%5CPROJECTS%5Cchat-app%5Cnode_modules%5Cnext%5Cfont%5Cgoogle%5Ctarget.css%3F%7B%22path%22%3A%22src%5C%5Capp%5C%5Cpage.tsx%22%2C%22import%22%3A%22Inter%22%2C%22arguments%22%3A%5B%7B%22subsets%22%3A%5B%22latin%22%5D%7D%5D%2C%22variableName%22%3A%22inter%22%7D&server=true!":
-/*!*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=C%3A%5CUsers%5Casus%5CDesktop%5CWEB%20DEV%5CPROJECTS%5Cchat-app%5Cnode_modules%5Cnext%5Cfont%5Cgoogle%5Ctarget.css%3F%7B%22path%22%3A%22src%5C%5Capp%5C%5Cpage.tsx%22%2C%22import%22%3A%22Inter%22%2C%22arguments%22%3A%5B%7B%22subsets%22%3A%5B%22latin%22%5D%7D%5D%2C%22variableName%22%3A%22inter%22%7D&server=true! ***!
-  \*************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+/***/ "(sc_client)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=C%3A%5CUsers%5Casus%5CDesktop%5CWEB%20DEV%5CPROJECTS%5Cchat-app%5Csrc%5Capp%5Cglobals.css&server=true!":
+/*!********************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=C%3A%5CUsers%5Casus%5CDesktop%5CWEB%20DEV%5CPROJECTS%5Cchat-app%5Csrc%5Capp%5Cglobals.css&server=true! ***!
+  \********************************************************************************************************************************************************************************************************/
 /***/ (() => {
 
 
 
 /***/ }),
 
-/***/ "(sc_client)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=C%3A%5CUsers%5Casus%5CDesktop%5CWEB%20DEV%5CPROJECTS%5Cchat-app%5Csrc%5Capp%5Cglobals.css&server=true!":
-/*!********************************************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?modules=C%3A%5CUsers%5Casus%5CDesktop%5CWEB%20DEV%5CPROJECTS%5Cchat-app%5Csrc%5Capp%5Cglobals.css&server=true! ***!
-  \********************************************************************************************************************************************************************************************************/
+/***/ "(sc_client)/./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?server=true!":
+/*!******************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-flight-client-entry-loader.js?server=true! ***!
+  \******************************************************************************************************/
 /***/ (() => {
 
 
@@ -2128,7 +2128,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ Home)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"(sc_server)/./node_modules/next/dist/compiled/react/jsx-dev-runtime.js\");\n\n\nfunction Home() {\n    return /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n        className: \"text-red-500\",\n        children: \"Hello world \"\n    }, void 0, false, {\n        fileName: \"C:\\\\Users\\\\asus\\\\Desktop\\\\WEB DEV\\\\PROJECTS\\\\chat-app\\\\src\\\\app\\\\page.tsx\",\n        lineNumber: 8,\n        columnNumber: 10\n    }, this);\n}\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHNjX3NlcnZlcikvLi9zcmMvYXBwL3BhZ2UudHN4LmpzIiwibWFwcGluZ3MiOiI7Ozs7OztBQUlNQTtBQUVTLFNBQVNDLE9BQU87SUFDN0IscUJBQU8sOERBQUNDO1FBQUlDLFdBQVU7a0JBQWU7Ozs7OztBQUN2QyxDQUFDIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vY2hhdC1hcHAvLi9zcmMvYXBwL3BhZ2UudHN4P2Y2OGEiXSwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IEltYWdlIGZyb20gXCJuZXh0L2ltYWdlXCI7XG5pbXBvcnQgeyBJbnRlciB9IGZyb20gXCJuZXh0L2ZvbnQvZ29vZ2xlXCI7XG5pbXBvcnQgc3R5bGVzIGZyb20gXCIuL3BhZ2UubW9kdWxlLmNzc1wiO1xuXG5jb25zdCBpbnRlciA9IEludGVyKHsgc3Vic2V0czogW1wibGF0aW5cIl0gfSk7XG5cbmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIEhvbWUoKSB7XG4gIHJldHVybiA8ZGl2IGNsYXNzTmFtZT1cInRleHQtcmVkLTUwMFwiPkhlbGxvIHdvcmxkIDwvZGl2Pjtcbn1cbiJdLCJuYW1lcyI6WyJpbnRlciIsIkhvbWUiLCJkaXYiLCJjbGFzc05hbWUiXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///(sc_server)/./src/app/page.tsx\n");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ Home)\n/* harmony export */ });\n/* harmony import */ var react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react/jsx-dev-runtime */ \"(sc_server)/./node_modules/next/dist/compiled/react/jsx-dev-runtime.js\");\n\nasync function Home() {\n    return /*#__PURE__*/ (0,react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(\"div\", {\n        className: \"text-red-500\",\n        children: \"Hello world \"\n    }, void 0, false, {\n        fileName: \"C:\\\\Users\\\\asus\\\\Desktop\\\\WEB DEV\\\\PROJECTS\\\\chat-app\\\\src\\\\app\\\\page.tsx\",\n        lineNumber: 4,\n        columnNumber: 10\n    }, this);\n}\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiKHNjX3NlcnZlcikvLi9zcmMvYXBwL3BhZ2UudHN4LmpzIiwibWFwcGluZ3MiOiI7Ozs7OztBQUVlLGVBQWVBLE9BQU87SUFDbkMscUJBQU8sOERBQUNDO1FBQUlDLFdBQVU7a0JBQWU7Ozs7OztBQUN2QyxDQUFDIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vY2hhdC1hcHAvLi9zcmMvYXBwL3BhZ2UudHN4P2Y2OGEiXSwic291cmNlc0NvbnRlbnQiOlsiaW1wb3J0IHsgZGIgfSBmcm9tIFwiQC9saWIvZGJcIjtcblxuZXhwb3J0IGRlZmF1bHQgYXN5bmMgZnVuY3Rpb24gSG9tZSgpIHtcbiAgcmV0dXJuIDxkaXYgY2xhc3NOYW1lPVwidGV4dC1yZWQtNTAwXCI+SGVsbG8gd29ybGQgPC9kaXY+O1xufVxuIl0sIm5hbWVzIjpbIkhvbWUiLCJkaXYiLCJjbGFzc05hbWUiXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///(sc_server)/./src/app/page.tsx\n");
 
 /***/ }),
 
