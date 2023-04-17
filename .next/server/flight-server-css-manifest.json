@@ -7,6 +7,12 @@
   "cssModules": {
     "C:\\Users\\asus\\Desktop\\WEB DEV\\PROJECTS\\chat-app\\src\\app\\page": [
       "C:\\Users\\asus\\Desktop\\WEB DEV\\PROJECTS\\chat-app\\src\\app\\globals.css"
+    ],
+    "C:\\Users\\asus\\Desktop\\WEB DEV\\PROJECTS\\chat-app\\src\\app\\login\\page": [
+      "C:\\Users\\asus\\Desktop\\WEB DEV\\PROJECTS\\chat-app\\src\\app\\globals.css"
+    ],
+    "C:\\Users\\asus\\Desktop\\WEB DEV\\PROJECTS\\chat-app\\src\\app\\dashboard\\page": [
+      "C:\\Users\\asus\\Desktop\\WEB DEV\\PROJECTS\\chat-app\\src\\app\\globals.css"
     ]
   }
 }

@@ -2893,6 +2893,110 @@ self.__RSC_MANIFEST={
         ],
         "async": false
       }
+    },
+    "(app-client)/./src/components/Providers.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/components/Providers.tsx",
+        "name": "*",
+        "chunks": [
+          "app/layout:app/layout"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/components/Providers.tsx",
+        "name": "",
+        "chunks": [
+          "app/layout:app/layout"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/components/Providers.tsx",
+        "name": "default",
+        "chunks": [
+          "app/layout:app/layout"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/app/login/page.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/app/login/page.tsx",
+        "name": "*",
+        "chunks": [
+          "app/login/page:app/login/page"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/app/login/page.tsx",
+        "name": "",
+        "chunks": [
+          "app/login/page:app/login/page"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/app/login/page.tsx",
+        "name": "default",
+        "chunks": [
+          "app/login/page:app/login/page"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/components/ui/Button.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/components/ui/Button.tsx",
+        "name": "*",
+        "chunks": [
+          "app/login/page:app/login/page"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/components/ui/Button.tsx",
+        "name": "",
+        "chunks": [
+          "app/login/page:app/login/page"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/components/ui/Button.tsx",
+        "name": "default",
+        "chunks": [
+          "app/login/page:app/login/page"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/lib/utils.ts": {
+      "*": {
+        "id": "(sc_client)/./src/lib/utils.ts",
+        "name": "*",
+        "chunks": [
+          "app/login/page:app/login/page"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/lib/utils.ts",
+        "name": "",
+        "chunks": [
+          "app/login/page:app/login/page"
+        ],
+        "async": false
+      },
+      "cn": {
+        "id": "(sc_client)/./src/lib/utils.ts",
+        "name": "cn",
+        "chunks": [
+          "app/login/page:app/login/page"
+        ],
+        "async": false
+      }
     }
   },
   "edgeSSRModuleMapping": {},
@@ -9388,6 +9492,102 @@ self.__RSC_MANIFEST={
       "chunks": [
         "static/css/app/layout.css"
       ]
+    },
+    "C:\\Users\\asus\\Desktop\\WEB DEV\\PROJECTS\\chat-app\\src\\components\\Providers.tsx": {
+      "id": "(app-client)/./src/components/Providers.tsx",
+      "name": "*",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "C:\\Users\\asus\\Desktop\\WEB DEV\\PROJECTS\\chat-app\\src\\components\\Providers.tsx#": {
+      "id": "(app-client)/./src/components/Providers.tsx",
+      "name": "",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "C:\\Users\\asus\\Desktop\\WEB DEV\\PROJECTS\\chat-app\\src\\components\\Providers.tsx#default": {
+      "id": "(app-client)/./src/components/Providers.tsx",
+      "name": "default",
+      "chunks": [
+        "app/layout:app/layout"
+      ],
+      "async": false
+    },
+    "C:\\Users\\asus\\Desktop\\WEB DEV\\PROJECTS\\chat-app\\src\\app\\login\\page.tsx": {
+      "id": "(app-client)/./src/app/login/page.tsx",
+      "name": "*",
+      "chunks": [
+        "app/login/page:app/login/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\asus\\Desktop\\WEB DEV\\PROJECTS\\chat-app\\src\\app\\login\\page.tsx#": {
+      "id": "(app-client)/./src/app/login/page.tsx",
+      "name": "",
+      "chunks": [
+        "app/login/page:app/login/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\asus\\Desktop\\WEB DEV\\PROJECTS\\chat-app\\src\\app\\login\\page.tsx#default": {
+      "id": "(app-client)/./src/app/login/page.tsx",
+      "name": "default",
+      "chunks": [
+        "app/login/page:app/login/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\asus\\Desktop\\WEB DEV\\PROJECTS\\chat-app\\src\\components\\ui\\Button.tsx": {
+      "id": "(app-client)/./src/components/ui/Button.tsx",
+      "name": "*",
+      "chunks": [
+        "app/login/page:app/login/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\asus\\Desktop\\WEB DEV\\PROJECTS\\chat-app\\src\\components\\ui\\Button.tsx#": {
+      "id": "(app-client)/./src/components/ui/Button.tsx",
+      "name": "",
+      "chunks": [
+        "app/login/page:app/login/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\asus\\Desktop\\WEB DEV\\PROJECTS\\chat-app\\src\\components\\ui\\Button.tsx#default": {
+      "id": "(app-client)/./src/components/ui/Button.tsx",
+      "name": "default",
+      "chunks": [
+        "app/login/page:app/login/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\asus\\Desktop\\WEB DEV\\PROJECTS\\chat-app\\src\\lib\\utils.ts": {
+      "id": "(app-client)/./src/lib/utils.ts",
+      "name": "*",
+      "chunks": [
+        "app/login/page:app/login/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\asus\\Desktop\\WEB DEV\\PROJECTS\\chat-app\\src\\lib\\utils.ts#": {
+      "id": "(app-client)/./src/lib/utils.ts",
+      "name": "",
+      "chunks": [
+        "app/login/page:app/login/page"
+      ],
+      "async": false
+    },
+    "C:\\Users\\asus\\Desktop\\WEB DEV\\PROJECTS\\chat-app\\src\\lib\\utils.ts#cn": {
+      "id": "(app-client)/./src/lib/utils.ts",
+      "name": "cn",
+      "chunks": [
+        "app/login/page:app/login/page"
+      ],
+      "async": false
     }
   }
 }
